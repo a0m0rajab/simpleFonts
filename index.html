@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fonts viewer</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="test.css">
+  <script src="names.js"></script>
+</head>
+
+<body>
+  <select>
+    <option>RTL</option>
+    <option>LTR</option>
+  </select>
+  <select id="fontOptions">
+
+  </select>
+  <div class="arabic">
+    <p>مَٰلِكِ يَوْمِ ٱلدِّينِ</p>
+    <p>وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ</p>
+    <p>ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ</p>
+    <textarea class="arabic" name="" id="" cols="30" rows="5"></textarea>
+
+  </div>
+
+  <script>
+    // get reference to select element
+
+    let sel = document.getElementById('fontOptions')
+
+    names.forEach(element => {
+
+      // create new option element
+      var opt = document.createElement('option');
+
+      // create text node to add to option element (opt)
+      opt.appendChild(document.createTextNode(element));
+
+      // set value property of opt
+      opt.value = element;
+
+      // add opt to end of select box (sel)
+      sel.appendChild(opt);
+    });
+sel.onchange = function(value){
+  console.log(sel.value)
+  document.getElementsByClassName("arabic")[0].style.fontFamily = sel.value+",serif";
+  document.getElementsByClassName("arabic")[0].style.fontFamily = sel.value+",serif";
+
+}
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+body{
+    direction: rtl;
+} 
+.arabic {
+    font: 20px arabicfont, serif; 
+}
+
+@font-face {
+    font-family: arabicfont;
+    src: url("./fonts/me_quran.ttf");
+}
