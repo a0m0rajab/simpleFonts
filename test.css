@@ -1,285 +1,370 @@
 
     @font-face {
         font-family: Al Qalam Quran Majeed 1;
-        src: url("/fonts/Al Qalam Quran Majeed 1.ttf");
+        src: url("./fonts/Al Qalam Quran Majeed 1.ttf");
     }
 
     @font-face {
         font-family: Al Qalam Quran Majeed 2;
-        src: url("/fonts/Al Qalam Quran Majeed 2.ttf");
+        src: url("./fonts/Al Qalam Quran Majeed 2.ttf");
     }
 
     @font-face {
         font-family: Al Qalam Quran Majeed;
-        src: url("/fonts/Al Qalam Quran Majeed.ttf");
+        src: url("./fonts/Al Qalam Quran Majeed.ttf");
     }
 
     @font-face {
         font-family: Al Qalam Quran;
-        src: url("/fonts/Al Qalam Quran.ttf");
+        src: url("./fonts/Al Qalam Quran.ttf");
     }
 
     @font-face {
         font-family: AlQalamQuran;
-        src: url("/fonts/AlQalamQuran.ttf");
+        src: url("./fonts/AlQalamQuran.ttf");
+    }
+
+    @font-face {
+        font-family: HQPB6;
+        src: url("./fonts/HQPB6.fon");
+    }
+
+    @font-face {
+        font-family: HQPB7;
+        src: url("./fonts/HQPB7.ttf");
     }
 
     @font-face {
         font-family: MADDINA;
-        src: url("/fonts/MADDINA.ttf");
+        src: url("./fonts/MADDINA.ttf");
+    }
+
+    @font-face {
+        font-family: MSHAR2;
+        src: url("./fonts/MSHAR2.FON");
+    }
+
+    @font-face {
+        font-family: MSHARB;
+        src: url("./fonts/MSHARB.FON");
+    }
+
+    @font-face {
+        font-family: MSHQ;
+        src: url("./fonts/MSHQ.TTF");
+    }
+
+    @font-face {
+        font-family: PageD1;
+        src: url("./fonts/PageD1.TTf");
+    }
+
+    @font-face {
+        font-family: PageD2;
+        src: url("./fonts/PageD2.TTf");
+    }
+
+    @font-face {
+        font-family: PageQ1;
+        src: url("./fonts/PageQ1.TTf");
+    }
+
+    @font-face {
+        font-family: PageQ2;
+        src: url("./fonts/PageQ2.TTf");
+    }
+
+    @font-face {
+        font-family: PageQ3;
+        src: url("./fonts/PageQ3.TTf");
+    }
+
+    @font-face {
+        font-family: QDSPSMB;
+        src: url("./fonts/QDSPSMB.FON");
+    }
+
+    @font-face {
+        font-family: QDSPSSMB;
+        src: url("./fonts/QDSPSSMB.FON");
+    }
+
+    @font-face {
+        font-family: QEDITSMB;
+        src: url("./fonts/QEDITSMB.FON");
+    }
+
+    @font-face {
+        font-family: QTRKSMB;
+        src: url("./fonts/QTRKSMB.FON");
+    }
+
+    @font-face {
+        font-family: QTRKSSMB;
+        src: url("./fonts/QTRKSSMB.FON");
+    }
+
+    @font-face {
+        font-family: QURSYS;
+        src: url("./fonts/QURSYS.FON");
     }
 
     @font-face {
         font-family: QUR_STD;
-        src: url("/fonts/QUR_STD.TTF");
+        src: url("./fonts/QUR_STD.TTF");
     }
 
     @font-face {
         font-family: ScheherazadeRegOT;
-        src: url("/fonts/ScheherazadeRegOT.ttf");
+        src: url("./fonts/ScheherazadeRegOT.ttf");
+    }
+
+    @font-face {
+        font-family: UthmanicHafs1 Ver09;
+        src: url("./fonts/UthmanicHafs1 Ver09.otf");
     }
 
     @font-face {
         font-family: UthmanicHafs1 Ver13;
-        src: url("/fonts/UthmanicHafs1 Ver13.otf");
+        src: url("./fonts/UthmanicHafs1 Ver13.otf");
     }
 
     @font-face {
         font-family: _PDMS_Saleem_QuranFont;
-        src: url("/fonts/_PDMS_Saleem_QuranFont.ttf");
+        src: url("./fonts/_PDMS_Saleem_QuranFont.ttf");
     }
 
     @font-face {
         font-family: ae_AlBattar;
-        src: url("/fonts/ae_AlBattar.ttf");
+        src: url("./fonts/ae_AlBattar.ttf");
     }
 
     @font-face {
         font-family: ae_AlHor;
-        src: url("/fonts/ae_AlHor.ttf");
+        src: url("./fonts/ae_AlHor.ttf");
     }
 
     @font-face {
         font-family: ae_AlManzomah;
-        src: url("/fonts/ae_AlManzomah.ttf");
+        src: url("./fonts/ae_AlManzomah.ttf");
     }
 
     @font-face {
         font-family: ae_AlMateen;
-        src: url("/fonts/ae_AlMateen.ttf");
+        src: url("./fonts/ae_AlMateen.ttf");
     }
 
     @font-face {
         font-family: ae_AlMohanad_bold;
-        src: url("/fonts/ae_AlMohanad_bold.ttf");
+        src: url("./fonts/ae_AlMohanad_bold.ttf");
     }
 
     @font-face {
         font-family: ae_AlMothnna;
-        src: url("/fonts/ae_AlMothnna.ttf");
+        src: url("./fonts/ae_AlMothnna.ttf");
     }
 
     @font-face {
         font-family: ae_AlYermook;
-        src: url("/fonts/ae_AlYermook.ttf");
+        src: url("./fonts/ae_AlYermook.ttf");
     }
 
     @font-face {
         font-family: ae_Arab;
-        src: url("/fonts/ae_Arab.ttf");
+        src: url("./fonts/ae_Arab.ttf");
     }
 
     @font-face {
         font-family: ae_Cortoba;
-        src: url("/fonts/ae_Cortoba.ttf");
+        src: url("./fonts/ae_Cortoba.ttf");
     }
 
     @font-face {
         font-family: ae_Dimnah;
-        src: url("/fonts/ae_Dimnah.ttf");
+        src: url("./fonts/ae_Dimnah.ttf");
     }
 
     @font-face {
         font-family: ae_Electron;
-        src: url("/fonts/ae_Electron.ttf");
+        src: url("./fonts/ae_Electron.ttf");
     }
 
     @font-face {
         font-family: ae_Furat;
-        src: url("/fonts/ae_Furat.ttf");
+        src: url("./fonts/ae_Furat.ttf");
     }
 
     @font-face {
         font-family: ae_Granada;
-        src: url("/fonts/ae_Granada.ttf");
+        src: url("./fonts/ae_Granada.ttf");
     }
 
     @font-face {
         font-family: ae_Graph;
-        src: url("/fonts/ae_Graph.ttf");
+        src: url("./fonts/ae_Graph.ttf");
     }
 
     @font-face {
         font-family: ae_Hani;
-        src: url("/fonts/ae_Hani.ttf");
+        src: url("./fonts/ae_Hani.ttf");
     }
 
     @font-face {
         font-family: ae_Haramain;
-        src: url("/fonts/ae_Haramain.ttf");
+        src: url("./fonts/ae_Haramain.ttf");
     }
 
     @font-face {
         font-family: ae_Hor;
-        src: url("/fonts/ae_Hor.ttf");
+        src: url("./fonts/ae_Hor.ttf");
     }
 
     @font-face {
         font-family: ae_Japan;
-        src: url("/fonts/ae_Japan.ttf");
+        src: url("./fonts/ae_Japan.ttf");
     }
 
     @font-face {
         font-family: ae_Jet;
-        src: url("/fonts/ae_Jet.ttf");
+        src: url("./fonts/ae_Jet.ttf");
     }
 
     @font-face {
         font-family: ae_Kayrawan;
-        src: url("/fonts/ae_Kayrawan.ttf");
+        src: url("./fonts/ae_Kayrawan.ttf");
     }
 
     @font-face {
         font-family: ae_Khalid;
-        src: url("/fonts/ae_Khalid.ttf");
+        src: url("./fonts/ae_Khalid.ttf");
     }
 
     @font-face {
         font-family: ae_Mashq;
-        src: url("/fonts/ae_Mashq.ttf");
+        src: url("./fonts/ae_Mashq.ttf");
     }
 
     @font-face {
         font-family: ae_Mashq_bold;
-        src: url("/fonts/ae_Mashq_bold.ttf");
+        src: url("./fonts/ae_Mashq_bold.ttf");
     }
 
     @font-face {
         font-family: ae_Metal;
-        src: url("/fonts/ae_Metal.ttf");
+        src: url("./fonts/ae_Metal.ttf");
     }
 
     @font-face {
         font-family: ae_Nada;
-        src: url("/fonts/ae_Nada.ttf");
+        src: url("./fonts/ae_Nada.ttf");
     }
 
     @font-face {
         font-family: ae_Nagham;
-        src: url("/fonts/ae_Nagham.ttf");
+        src: url("./fonts/ae_Nagham.ttf");
     }
 
     @font-face {
         font-family: ae_Nice;
-        src: url("/fonts/ae_Nice.ttf");
+        src: url("./fonts/ae_Nice.ttf");
     }
 
     @font-face {
         font-family: ae_Ostorah;
-        src: url("/fonts/ae_Ostorah.ttf");
+        src: url("./fonts/ae_Ostorah.ttf");
     }
 
     @font-face {
         font-family: ae_Ouhod;
-        src: url("/fonts/ae_Ouhod.ttf");
+        src: url("./fonts/ae_Ouhod.ttf");
     }
 
     @font-face {
         font-family: ae_Petra;
-        src: url("/fonts/ae_Petra.ttf");
+        src: url("./fonts/ae_Petra.ttf");
     }
 
     @font-face {
         font-family: ae_Rasheeq_bold;
-        src: url("/fonts/ae_Rasheeq_bold.ttf");
+        src: url("./fonts/ae_Rasheeq_bold.ttf");
     }
 
     @font-face {
         font-family: ae_Rehan;
-        src: url("/fonts/ae_Rehan.ttf");
+        src: url("./fonts/ae_Rehan.ttf");
     }
 
     @font-face {
         font-family: ae_Salem;
-        src: url("/fonts/ae_Salem.ttf");
+        src: url("./fonts/ae_Salem.ttf");
     }
 
     @font-face {
         font-family: ae_Shado;
-        src: url("/fonts/ae_Shado.ttf");
+        src: url("./fonts/ae_Shado.ttf");
     }
 
     @font-face {
         font-family: ae_Sharjah;
-        src: url("/fonts/ae_Sharjah.ttf");
+        src: url("./fonts/ae_Sharjah.ttf");
     }
 
     @font-face {
         font-family: ae_Sindibad;
-        src: url("/fonts/ae_Sindibad.ttf");
+        src: url("./fonts/ae_Sindibad.ttf");
     }
 
     @font-face {
         font-family: ae_Tarablus;
-        src: url("/fonts/ae_Tarablus.ttf");
+        src: url("./fonts/ae_Tarablus.ttf");
     }
 
     @font-face {
         font-family: ae_Tholoth;
-        src: url("/fonts/ae_Tholoth.ttf");
+        src: url("./fonts/ae_Tholoth.ttf");
     }
 
     @font-face {
         font-family: ar-Othmani;
-        src: url("/fonts/ar-Othmani.ttf");
+        src: url("./fonts/ar-Othmani.ttf");
     }
 
     @font-face {
         font-family: ar-Quran1;
-        src: url("/fonts/ar-Quran1.ttf");
+        src: url("./fonts/ar-Quran1.ttf");
     }
 
     @font-face {
         font-family: me_quran;
-        src: url("/fonts/me_quran.ttf");
+        src: url("./fonts/me_quran.ttf");
     }
 
     @font-face {
         font-family: me_quran_volt_newmet;
-        src: url("/fonts/me_quran_volt_newmet.ttf");
+        src: url("./fonts/me_quran_volt_newmet.ttf");
     }
 
     @font-face {
         font-family: noorehidayat;
-        src: url("/fonts/noorehidayat.ttf");
+        src: url("./fonts/noorehidayat.ttf");
     }
 
     @font-face {
         font-family: noorehira;
-        src: url("/fonts/noorehira.ttf");
+        src: url("./fonts/noorehira.ttf");
     }
 
     @font-face {
         font-family: p11 (1);
-        src: url("/fonts/p11 (1).ttf");
+        src: url("./fonts/p11 (1).ttf");
     }
 
     @font-face {
         font-family: p11 (2);
-        src: url("/fonts/p11 (2).ttf");
+        src: url("./fonts/p11 (2).ttf");
     }
 
     @font-face {
         font-family: p11;
-        src: url("/fonts/p11.ttf");
+        src: url("./fonts/p11.ttf");
     }
